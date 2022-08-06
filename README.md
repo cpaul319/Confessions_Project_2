@@ -4,7 +4,7 @@ Project 2 Confessions is a full stack application created by
 * Nitza Rondon-Rosario 
 * Facundo L. Rodriguez 
 * Frank Calovini 
-* Chris Paul fix this
+* Chris Paul
 
 
  # Project 2 Requirements #
